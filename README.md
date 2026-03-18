@@ -34,11 +34,11 @@ Fun fact: I worked as a pastry chef for over five years.
 <tr>
 <td width="50%" align="center" valign="top">
 
-### PROJECT 1 
+### Healthy Diet Dashboard
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 2024.
 
-[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/)
+[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/UBC-MDS/DSCI-532_2026_29_healthy-diet)
 
 </td>
 <td width="50%" align="center" valign="top">
