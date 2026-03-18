@@ -45,11 +45,11 @@ Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 202
 
 
 
-### PROJECT 2
+### Relationship Quality Prediction
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Exploring how demographic and relationship factors influence self-reported relationship quality using survey data and a logistic regression model.
 
-[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/)
+[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jasjotp/relationship-quality-prediction)
 
 </td>
 </tr>
