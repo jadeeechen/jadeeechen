@@ -18,9 +18,11 @@
 
 I am a data scientist with a background in behavioural neuroscience. I specialize in statistical analysis, predictive modeling, and data visualization using Python, R, and SQL.
 
-Outside of data, I enjoy rock climbing and have spent several summers climbing across Canada, the US, France, Spain, and Croatia.🧗🏻‍♀️ My recent obsession is beach volleyball!🏖️🏐 Fun fact: I worked as a pastry chef for over five years.🍰👩🏻‍🍳
+Outside of data, I enjoy rock climbing and have spent several summers climbing across Canada, the US, France, Spain, and Croatia. However, my recent obsession is beach volleyball!
 
+Fun fact: I worked as a pastry chef for over five years.
 
+<br>
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BvODVrcXdtbXB0bnI0OGo5dGduOXN0MHZ0OWk1aGtna2ZrcDRxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1N4w8i2YOJIposEnye/giphy.gif" height="170"/>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDYyeXdydGxhN2RwdTQycDlneHdnZng4MXo5a3Vyb3FvZ3o5YzA1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tczJoRU7XwBS8/giphy.gif" height="170"/>
