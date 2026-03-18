@@ -171,6 +171,5 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 </table>
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadeeechen&theme=default" />
 
-<p align="center">
-  ![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjadeeechen%2Fjadeeechen%2Fedit%2Fmain%2FREADME.md&label=visitors&countColor=%23263759)
-</p>
+
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjadeeechen%2Fjadeeechen%2Fedit%2Fmain%2FREADME.md&label=visitors&countColor=%23263759)
