@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.jadeeechen.com">
-    <img src="https://img.shields.io/badge/jadeeechen.com-0071e3?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/jadeeechen.com-0071e3?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/jadeeechen">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
