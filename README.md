@@ -34,17 +34,30 @@ Fun fact: I worked as a pastry chef for over five years.
 <tr>
 <td width="50%" align="center" valign="top">
 
-### Healthy Diet Dashboard
-**2026**
+### Cookbook OCR & Digitalization
+**2026 — WIP**
 
-Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 2024.
+Digitizing my 10yr+ old recipe book using OCR, text cleaning, and parsing pipelines to create structured, searchable recipes and a digital cookbook.
 
-[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/UBC-MDS/DSCI-532_2026_29_healthy-diet)
+[![](https://img.shields.io/badge/Repo-WIP-yellow?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=yellow&logoColor=white&label=Repo&message=WIP&messageColor=black)](https://github.com/jadeeechen/cookbook-ocr)
 
 </td>
 <td width="50%" align="center" valign="top">
 
+### Healthy Diet Dashboard
+**2026**
 
+Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 2024 for policy analysts and public health researchers.
+
+[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/UBC-MDS/DSCI-532_2026_29_healthy-diet)
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
 ### Relationship Quality Prediction
 **2025**
@@ -54,12 +67,6 @@ Exploring how demographic and relationship factors influence self-reported relat
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jasjotp/relationship-quality-prediction)
 
 </td>
-</tr>
-</table>
-
-
-<table width="100%">
-<tr>
 <td width="50%" align="center" valign="top">
 
 ### Predicting Age from Drug Use
@@ -70,15 +77,30 @@ Predicting whether an individual is a youth or adult from reported substance use
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/DSCI-310-2025/dsci-310-group-7-data-dudes)
 
 </td>
+</tr>
+</table>
+
+
+<table width="100%">
+<tr>
 <td width="50%" align="center" valign="top">
 
-### COVID-19 Athlete Well-Being Dashboard
+### COVID-19 Athlete Dashboard
 **2023**
 
 Interactive dashboard comparing mental well-being, loneliness, and psychological health between athletes and non-athletes during the COVID-19 pandemic.
 
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/covid-athlete-dashboard)
 
+</td>
+<td width="50%" align="center" valign="top">
+
+### PROJECT 6
+**YEAR**
+
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+
+[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/)
 </td>
 </tr>
 </table>
