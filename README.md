@@ -34,7 +34,7 @@ Fun fact: I worked as a pastry chef for over five years.
 <tr>
 <td width="50%" align="center" valign="top">
 
-### Healthy Diet Dashboard
+### Healthy Diet Dashboard (2026)
 
 Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 2024.
 
@@ -45,7 +45,7 @@ Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 202
 
 
 
-### Relationship Quality Prediction
+### Relationship Quality Prediction (2025)
 
 Exploring how demographic and relationship factors influence self-reported relationship quality using survey data and a logistic regression model.
 
@@ -60,11 +60,11 @@ Exploring how demographic and relationship factors influence self-reported relat
 <tr>
 <td width="50%" align="center" valign="top">
 
-### PROJECT 3
+### COVID-19 Athlete Well-Being Dashboard (2022)
 
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+Interactive dashboard comparing mental well-being, loneliness, and psychological health between athletes and non-athletes during the COVID-19 pandemic.
 
-[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/)
+[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/covid-athlete-dashboard)
 
 </td>
 <td width="50%" align="center" valign="top">
