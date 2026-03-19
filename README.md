@@ -62,23 +62,22 @@ Exploring how demographic and relationship factors influence self-reported relat
 <tr>
 <td width="50%" align="center" valign="top">
 
+### Predicting Age from Drug Use
+**2025**
+
+Predicting whether an individual is a youth or adult from reported substance use and health survey data using statistical classification models.
+
+[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/DSCI-310-2025/dsci-310-group-7-data-dudes)
+
+</td>
+<td width="50%" align="center" valign="top">
+
 ### COVID-19 Athlete Well-Being Dashboard
 **2023**
 
 Interactive dashboard comparing mental well-being, loneliness, and psychological health between athletes and non-athletes during the COVID-19 pandemic.
 
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/covid-athlete-dashboard)
-
-</td>
-<td width="50%" align="center" valign="top">
-
-
-
-### PROJECT 4
-
-The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
-
-[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/)
 
 </td>
 </tr>
