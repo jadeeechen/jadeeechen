@@ -34,7 +34,8 @@ Fun fact: I worked as a pastry chef for over five years.
 <tr>
 <td width="50%" align="center" valign="top">
 
-### Healthy Diet Dashboard (2026)
+### Healthy Diet Dashboard
+**2026**
 
 Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 2024.
 
@@ -45,7 +46,8 @@ Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 202
 
 
 
-### Relationship Quality Prediction (2025)
+### Relationship Quality Prediction
+**2025**
 
 Exploring how demographic and relationship factors influence self-reported relationship quality using survey data and a logistic regression model.
 
@@ -60,7 +62,8 @@ Exploring how demographic and relationship factors influence self-reported relat
 <tr>
 <td width="50%" align="center" valign="top">
 
-### COVID-19 Athlete Well-Being Dashboard (2022)
+### COVID-19 Athlete Well-Being Dashboard
+**2023**
 
 Interactive dashboard comparing mental well-being, loneliness, and psychological health between athletes and non-athletes during the COVID-19 pandemic.
 
