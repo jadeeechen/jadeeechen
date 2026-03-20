@@ -44,6 +44,21 @@ Digitizing my 10yr+ old recipe book using OCR, text cleaning, and parsing pipeli
 </td>
 <td width="50%" align="center" valign="top">
 
+### Computer Vision in Climbing
+**2026 — WIP**
+
+Applying computer vision to climbing videos to convert movement into structured data for analyzing route difficulty.
+
+[![](https://img.shields.io/badge/Repo-WIP-yellow?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=yellow&logoColor=white&label=Repo&message=WIP&messageColor=black)](https://github.com/jadeeechen/computer-vision-climbing)
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
 ### Healthy Diet Dashboard
 **2026**
 
@@ -52,11 +67,6 @@ Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 202
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/UBC-MDS/DSCI-532_2026_29_healthy-diet)
 
 </td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
 <td width="50%" align="center" valign="top">
 
 ### Beautiful Numbers
@@ -65,16 +75,6 @@ Exploring the cost of a healthy diet (PPP USD) across countries from 2017 to 202
 A Python package for exploring numerical properties and representations, including prime numbers, binary and hexadecimal conversion, and Fibonacci sequences.
 
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/UBC-MDS/DSCI_524_group_22_beautiful_numbers)
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### Relationship Quality Prediction
-**2025**
-
-Exploring how demographic and relationship factors influence self-reported relationship quality using survey data and a logistic regression model.
-
-[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jasjotp/relationship-quality-prediction)
 </td>
 </tr>
 </table>
@@ -84,14 +84,28 @@ Exploring how demographic and relationship factors influence self-reported relat
 <tr>
 <td width="50%" align="center" valign="top">
 
+### Relationship Quality Prediction
+**2025**
+
+Exploring how demographic and relationship factors influence self-reported relationship quality using survey data and a logistic regression model.
+
+[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jasjotp/relationship-quality-prediction)
+
+</td>
+<td width="50%" align="center" valign="top">
+
 ### Predicting Age from Drug Use
 **2025**
 
 Predicting whether an individual is a youth or adult from reported substance use and health survey data using statistical classification models.
 
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/DSCI-310-2025/dsci-310-group-7-data-dudes)
-
 </td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
 <td width="50%" align="center" valign="top">
 
 ### COVID-19 Athlete Dashboard
@@ -100,6 +114,16 @@ Predicting whether an individual is a youth or adult from reported substance use
 Interactive dashboard comparing mental well-being, loneliness, and psychological health between athletes and non-athletes during the COVID-19 pandemic.
 
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/covid-athlete-dashboard)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Predicting Student Math Scores
+**2023**
+
+Interactive dashboard comparing mental well-being, loneliness, and psychological health between athletes and non-athletes during the COVID-19 pandemic.
+
+[![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/stat-301_student-performance-mathematics_winter-2023)
 </td>
 </tr>
 </table>
