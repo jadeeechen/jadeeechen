@@ -111,7 +111,7 @@ Predicting whether an individual is a youth or adult from reported substance use
 ### COVID-19 Athlete Dashboard
 **2023**
 
-Interactive dashboard comparing mental well-being, loneliness, and psychological health between athletes and non-athletes during the COVID-19 pandemic.
+Interactive dashboard comparing mental well-being, loneliness, and psychological health between athletes and non-athletes during the pandemic.
 
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/covid-athlete-dashboard)
 
@@ -121,7 +121,7 @@ Interactive dashboard comparing mental well-being, loneliness, and psychological
 ### Predicting Student Math Scores
 **2023**
 
-Interactive dashboard comparing mental well-being, loneliness, and psychological health between athletes and non-athletes during the COVID-19 pandemic.
+Predicting student mathematics performance from demographic and academic features using statistical modeling.
 
 [![](https://img.shields.io/badge/Repo_-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jadeeechen/stat-301_student-performance-mathematics_winter-2023)
 </td>
